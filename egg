@@ -1,1 +1,4 @@
-print(spicy)
+randint(0,9)
+list = []
+for counter in range(randint)
+  append.list(randint)
