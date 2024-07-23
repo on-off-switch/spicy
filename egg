@@ -1,5 +1,7 @@
-random.randint(0,9999)
+import random
+randominte = random.randint(0,9999)
 list = []
-for counter in range(randint)
-  random.randint(0,9999)
-  append.list(randint)
+for counter in range(20):
+  randominte = random.randint(0,9999)
+  list.append(randominte)
+print(list)
