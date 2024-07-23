@@ -1,4 +1,5 @@
-randint(0,9)
+random.randint(0,9999)
 list = []
 for counter in range(randint)
+  random.randint(0,9999)
   append.list(randint)
